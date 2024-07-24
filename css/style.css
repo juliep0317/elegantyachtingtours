@@ -102,7 +102,7 @@ nav a:hover {
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    background-image: url("./yacht.jpg");
+    background-image: url("../yacht.jpg");
     /*Photo by <a href="https://unsplash.com/@dominikri?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Dominik Riesen</a>*/
     background-size: cover;
     background-position: center center;
