@@ -102,7 +102,7 @@ nav a:hover {
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    background-image: url("../yacht.jpg");
+    background-image: url("yacht.jpg");
     /*Photo by <a href="https://unsplash.com/@dominikri?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Dominik Riesen</a>*/
     background-size: cover;
     background-position: center center;
@@ -477,7 +477,7 @@ figcaption {
 /* Tours Styles */
 
 .mediterranean-section {
-    background-image:url(../mediterranean.jpg);
+    background-image:url(mediterranean.jpg);
     display: flex;
     height: 40vh;
     background-position: center center; 
@@ -539,7 +539,7 @@ figcaption {
     background-color: #32323c;
  }
 .caribbean-section {
-    background-image: url(../caribbean.jpg);
+    background-image: url(caribbean.jpg);
     display: flex;
     height: 40vh;
     background-position: center center; 
@@ -575,7 +575,7 @@ figcaption {
 }
 
 .south-east-asia-section {
-    background-image: url(../south-asia.jpg);
+    background-image: url(south-asia.jpg);
     display: flex;
     height: 40vh;
     background-position: center center; 
